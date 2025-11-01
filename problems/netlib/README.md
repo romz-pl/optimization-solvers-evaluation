@@ -2,6 +2,8 @@
 
 The [Netlib](https://www.netlib.org/lp/data/) mathematical software repository maintains a comprehensive collection of linear programming test problems.
 
+The original readme file for Netlib repository can be found at [readme](https://www.netlib.org/lp/data/readme).
+
 ## Overview
 
 This collection contains standard linear programming (LP) test problems that are used to benchmark optimization solvers. The problems are stored in MPS-standard input files.
