@@ -31,11 +31,8 @@ The collection includes 97+ standard problems with the following characteristics
 ## References and Documentation
 
 ### Key Publications
-- **Lustig, I.J.** (1989). "An Analysis of an Available Set of Linear Programming Test Problems". *Computers & Operations Research*, vol. 16, no. 2, pp. 173-184.
-  - Includes sparsity graphs and MINOS performance analysis
-
-- **Carolan et al.** (1990). "An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications". *Operations Research*, vol. 38, no. 2, pp. 240-248.
-
-- **Ho, J.K. and Loute, E.** (1981). "A Set of Staircase Linear Programming Test Problems". *Mathematical Programming*, vol. 20, pp. 245-250.
+- Lustig, I.J. **"An Analysis of an Available Set of Linear Programming Test Problems"**, *Computers & Operations Research*, vol. 16, no. 2, pp. 173-184 (1989).
+- Carolan et al. **"An Empirical Evaluation of the KORBX Algorithms for Military Airlift Applications"**, *Operations Research*, vol. 38, no. 2, pp. 240-248 (1990).
+- Ho, J.K. and Loute, E. **"A Set of Staircase Linear Programming Test Problems"**, *Mathematical Programming*, vol. 20, pp. 245-250 (1981).
 
 
