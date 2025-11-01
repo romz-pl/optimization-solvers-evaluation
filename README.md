@@ -26,12 +26,11 @@ The repository provides results calculated by the following solvers:
 
 The repository includes several benchmark problem sets:
 
-- **Standard LP benchmarks:** Classic linear programming test problems
-- **MILP benchmarks:** Mixed-integer problems of varying difficulty
-- **Real-world instances:** Problems from practical applications
-- **Custom problems:** User-defined problem instances
+- [MIPLIB 2017](https://miplib.zib.de/)
+- [MIPLIB 2010](https://miplib2010.zib.de/)
+- [Netlib](https://www.netlib.org/lp/data/)
+- [Hans Mittelmann's Benchmarks](http://plato.asu.edu/bench.html)
 
-Add your own problems in MPS, LP, or other standard formats to the `problems/` directory.
 
 ## License
 
@@ -39,12 +38,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thanks to the developers of all evaluated solvers
-- Benchmark problems sourced from:
-  - [MIPLIB 2017](https://miplib.zib.de/)
-  - [MIPLIB 2010](https://miplib2010.zib.de/)
-  - [Netlib](https://www.netlib.org/lp/data/)
-  - [Hans Mittelmann's Benchmarks](http://plato.asu.edu/bench.html)
+- Thanks to the developers of all the evaluated solvers.
+- Thank you to all the researchers who worked on the benchmarked problems.
+
 
 ## Contact
 
