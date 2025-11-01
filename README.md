@@ -1,21 +1,20 @@
 # Evaluation of Optimization Solvers
 
-A comprehensive set of results and problems for evaluating linear programming (LP) and mixed-integer linear programming (MILP) solvers.
+A comprehensive set of results and problems for evaluating linear programming (LP) and mixed-integer linear programming (MILP) solvers is presented.
 
 ## Overview
 
-This repository provides results and problems for comparing the performance of various optimization solvers on LP and MILP problems. The evaluation includes metrics such as solution time, solution quality, memory usage, and solver reliability across different problem classes.
+This repository provides results and problems for comparing the performance of various optimization solvers on linear programming (LP) and mixed-integer linear programming (MILP) problems. The evaluation includes metrics such as solution time, quality of solutions, memory usage, and solver reliability across different problem classes. [NEOS Server](https://neos-server.org/neos/) played a key role in achieving these results.
 
 ## Evaluated Solvers
 
-The framework supports evaluation of the following solvers:
+The repository provides results calculated by the following solvers:
 
 - **Open-source solvers:**
   - [HiGHS](https://highs.dev)
+  - SCIP (Solving Constraint Integer Programs)
   - GLPK (GNU Linear Programming Kit)
   - CBC (COIN-OR Branch and Cut)
-  - SCIP (Solving Constraint Integer Programs)
-  
 
 - **Commercial solvers:**
   - Gurobi
@@ -42,8 +41,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to the developers of all evaluated solvers
 - Benchmark problems sourced from:
-  - [MIPLIB 2017](https://miplib.zib.de/),
-  - [MIPLIB 2010](https://miplib2010.zib.de/),
+  - [MIPLIB 2017](https://miplib.zib.de/)
+  - [MIPLIB 2010](https://miplib2010.zib.de/)
   - [Netlib](https://www.netlib.org/lp/data/)
   - [Hans Mittelmann's Benchmarks](http://plato.asu.edu/bench.html)
 
