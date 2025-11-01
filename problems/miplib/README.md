@@ -1,8 +1,10 @@
 # MIPLIB – The Mixed Integer Programming Library
 
-[MIPLIB (Mixed Integer Programming Library)](https://miplib2010.zib.de/) is a widely-used benchmark collection in the field of mathematical optimization, specifically for testing and comparing the performance of mixed integer programming (MIP) solvers.
+[MIPLIB (Mixed Integer Programming Library)](https://miplib.zib.de/) is a widely-used benchmark collection in the field of mathematical optimization, specifically for testing and comparing the performance of mixed integer programming (MIP) solvers.
 
-[Complete problem set](https://miplib2010.zib.de/miplib2010.php)
+- [Collection Set for MIPLIB 2017](https://miplib.zib.de/tag_collection.html)
+- [MIPLIB 2010](https://miplib2010.zib.de/)
+- [Collection Set for MIPLIB 2010](https://miplib2010.zib.de/miplib2010.php)
 
 ## Purpose and Significance
 
