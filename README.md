@@ -30,6 +30,7 @@ The repository includes several benchmark problem sets:
 - [MIPLIB 2010](https://miplib2010.zib.de/)
 - [Netlib](https://www.netlib.org/lp/data/)
 - [Hans Mittelmann's Benchmarks](http://plato.asu.edu/bench.html)
+- [Computational Optimization and Applications Software Forum](https://coap.math.ufl.edu/)
 
 
 ## License
