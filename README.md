@@ -1,4 +1,4 @@
-# Optimization Solver Evaluation
+# Evaluation of Optimization Solvers
 
 A comprehensive benchmarking framework for evaluating linear programming (LP) and mixed-integer linear programming (MILP) solvers.
 
