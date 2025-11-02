@@ -9,7 +9,4 @@
 | [fome11](./fome11.sol)                    |     7321 |    18653 |    62444 |  2.2532792093e+07 |
 | [pds-20](./pds-20.sol)                    |    33874 |   105728 |   230200 |  2.3821658640e+10 |
 
-n370a.mps
-Job 17982877 dispatched
-password: jVSnIKrH
 
